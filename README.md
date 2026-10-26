@@ -87,7 +87,7 @@ The database includes the following tables:
 * `deliveries`: Delivery details of each order
 * `riders`: Rider details and signup info
 
-> You can view the ER Diagram [here](https://github.com/Garima-Khandelwal-1/Dishcover/blob/main/erd.png?raw=true)
+> You can view the ER Diagram [here](https://github.com/NachiketPatil27/data-analysis-for-dishcover/blob/main/erd.png)
 
 ---
 
