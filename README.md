@@ -38,7 +38,8 @@ This project also helped me visualize insights using Power BI, making the data e
 ---
 ## 📊 Power BI Dashboard – Dishcover
 
-
+![Dashboard](images/p1.png)
+![Dashboard](images/p2.png)
 To make the insights more interactive and visually compelling, I designed a **Power BI dashboard** for the **Dishcover** project using real-world food delivery data. This dashboard provides a clear overview of key business metrics through intuitive visuals:
 
 
