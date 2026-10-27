@@ -38,33 +38,22 @@ This project also helped me visualize insights using Power BI, making the data e
 ---
 ## 📊 Power BI Dashboard – Dishcover
 
+
 To make the insights more interactive and visually compelling, I designed a **Power BI dashboard** for the **Dishcover** project using real-world food delivery data. This dashboard provides a clear overview of key business metrics through intuitive visuals:
 
-### 📸 Dashboard Preview
 
-![Dishcover Power BI Dashboard](dashboard/(https://github.com/user-attachments/assets/bc6a5669-bb38-458a-970d-324056c773bf)
-)
+### 🔍 Key Highlights in Dashboard:
 
-<img width="1515" height="859" alt="image" src="https://github.com/user-attachments/assets/b8845781-8c7a-4ab9-9f8e-1bc8bc8468d5" />
-
-### 🔍 Key Highlights:
-
-- 💰 **Total Sales**: ₹987M across 150K orders  
+- 💰 **Total Sales**: ₹3.23M across 10K orders  
 - 🍛 **Category Breakdown**:
-  - **Veg**: ₹122M | ⭐ 122M ratings  
-  - **Non-Veg**: ₹106M | ⭐ 106M ratings  
-  - **Other**: ₹24M | ⭐ 24M ratings  
-- 🏙️ **Top 50 Cities by Order Amount**  
-  *(e.g., Tirupati, Pune, Delhi, Raipur, Bikaner)*
-- 📈 **Year-wise Sales Trend**:
-  - Peak in 2018 (₹0.41bn)
-  - Decline observed in 2020 (₹0.14bn)
-- 📦 **Quantity Ordered**: 2M units  
-- ⭐ **Total Ratings**: 148K  
+  - **Veg**: ₹1.18M | ⭐ 3.2K ratings  
+  - **Non-Veg**: ₹1.64M | ⭐ 4.5K ratings  
+  - **Other**: ₹0.4M | ⭐ 1.1K ratings  
+- 🏙️ **Top 5 Cities by Order Amount**  
+- 📦 **Quantity Ordered**: 10K units  
+- ⭐ **Total Ratings**: 9K  
 
 Users can toggle between **Amount** and **Quantity** views. Filters like **Top 5/10/20/50/100 cities** enhance interactivity.
-
-> 📁 You can find the `.pbix` file or dashboard screenshots in this repository under the `dashboard/` folder.
 
 ---
 
