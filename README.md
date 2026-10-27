@@ -54,7 +54,6 @@ To make the insights more interactive and visually compelling, I designed a **Po
 - 📦 **Quantity Ordered**: 10K units  
 - ⭐ **Total Ratings**: 9K  
 
-Users can toggle between **Amount** and **Quantity** views. Filters like **Top 5/10/20/50/100 cities** enhance interactivity.
 
 ---
 
